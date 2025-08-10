@@ -99,8 +99,8 @@ http://127.0.0.1:5000/
 
 ## Screenshots
 
-![alt text](<Screenshot_1.png>)
-![alt text](<Screenshot_2.png>)
-![alt text](<Screenshot_3.png>)
+<img width="899" height="609" alt="Screenshot 2025-08-10 175047" src="https://github.com/user-attachments/assets/028556fc-7cb3-432e-acd3-15db7589cad4" />
+<img width="801" height="600" alt="Screenshot 2025-08-10 175233" src="https://github.com/user-attachments/assets/2639f240-396b-48b8-8230-e6f5ae5324f0" />
+<img width="800" height="602" alt="Screenshot 2025-08-10 175246" src="https://github.com/user-attachments/assets/be6802df-fbd3-4869-a8e9-6d2240b2f8eb" />
 
 ---
